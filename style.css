@@ -1,0 +1,29 @@
+.home1{
+    background: url(../images/header-bg.jpg) no-repeat center top fixed;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    width: 100%;
+    overflow: hidden;
+}
+.home-wrapper1{
+    margin-top:240px;
+    color:#fff;
+}
+.home-content1 h1{
+    font-size:65px;
+    text-transform:uppercase;
+    color:#fff;
+    font-weight:900;
+    font-family: "Raleway Webfont";
+    letter-spacing:12px;
+    border-top:2px solid #ecf0f2;
+    border-bottom:2px solid #ecf0f2;
+    padding:20px 0;
+} 
+.home-content1 p{
+    font-size:25px;
+    margin-top:20px;
+    color:#ecf0f2;
+}
