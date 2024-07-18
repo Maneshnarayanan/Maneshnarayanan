@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manesh K</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-- 🌱 I’m currently learning **Node.js,Next js ,Typscrpt**
+- 🌱 I’m currently learning **Node.js,Next js ,Typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
