@@ -1,7 +1,7 @@
 import React from 'react';
 import './about.css';
 import dp from '../../assets/mydp.jpg';
-import CV from '../../assets/cv_nataliia_vyrsta_frontend-fullstack.pdf';
+import CV from '../../assets/resume.pdf';
 import { Info } from './Info';
 
 export const About = () => {
