@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Maneshnarayanan/Maneshnarayanan/static/css/main.4a70cacc.css",
-    "main.js": "/Maneshnarayanan/Maneshnarayanan/static/js/main.5e93aee7.js",
-    "static/media/Gps.png": "/Maneshnarayanan/Maneshnarayanan/static/media/Gps.c29d2e17c633a0eac569.png",
-    "static/media/Olx.png": "/Maneshnarayanan/Maneshnarayanan/static/media/Olx.6f96b7308200f769a63e.png",
-    "static/media/cv_nataliia_vyrsta_frontend-fullstack.pdf": "/Maneshnarayanan/Maneshnarayanan/static/media/cv_nataliia_vyrsta_frontend-fullstack.2b45acc74366759703ea.pdf",
-    "static/media/2.jpg": "/Maneshnarayanan/Maneshnarayanan/static/media/2.3aa60b15f819f5356005.jpg",
-    "static/media/mydp.jpg": "/Maneshnarayanan/Maneshnarayanan/static/media/mydp.17c6b4a55c0be8045f55.jpg",
-    "static/media/1.png": "/Maneshnarayanan/Maneshnarayanan/static/media/1.07e212b8a911a083cc3f.png",
-    "static/media/Netflix.png": "/Maneshnarayanan/Maneshnarayanan/static/media/Netflix.c6360fc48a412e0254b7.png",
-    "static/media/Onlineexam.png": "/Maneshnarayanan/Maneshnarayanan/static/media/Onlineexam.e7415b35713390b94408.png",
-    "static/media/cvbuilder.JPG": "/Maneshnarayanan/Maneshnarayanan/static/media/cvbuilder.0e607af0b67c3ff158c2.JPG",
-    "static/media/logo.svg": "/Maneshnarayanan/Maneshnarayanan/static/media/logo.7558777d033c30ecdc731f6abdb45949.svg",
-    "static/media/uc.avif": "/Maneshnarayanan/Maneshnarayanan/static/media/uc.095123402ebd2bc20519.avif",
-    "index.html": "/Maneshnarayanan/Maneshnarayanan/index.html",
-    "main.4a70cacc.css.map": "/Maneshnarayanan/Maneshnarayanan/static/css/main.4a70cacc.css.map",
-    "main.5e93aee7.js.map": "/Maneshnarayanan/Maneshnarayanan/static/js/main.5e93aee7.js.map"
+    "main.css": "/Maneshnarayanan/static/css/main.61ec770d.css",
+    "main.js": "/Maneshnarayanan/static/js/main.64ceed30.js",
+    "static/media/Gps.png": "/Maneshnarayanan/static/media/Gps.c29d2e17c633a0eac569.png",
+    "static/media/Olx.png": "/Maneshnarayanan/static/media/Olx.6f96b7308200f769a63e.png",
+    "static/media/cv_nataliia_vyrsta_frontend-fullstack.pdf": "/Maneshnarayanan/static/media/cv_nataliia_vyrsta_frontend-fullstack.2b45acc74366759703ea.pdf",
+    "static/media/2.jpg": "/Maneshnarayanan/static/media/2.3aa60b15f819f5356005.jpg",
+    "static/media/mydp.jpg": "/Maneshnarayanan/static/media/mydp.17c6b4a55c0be8045f55.jpg",
+    "static/media/1.png": "/Maneshnarayanan/static/media/1.07e212b8a911a083cc3f.png",
+    "static/media/Netflix.png": "/Maneshnarayanan/static/media/Netflix.c6360fc48a412e0254b7.png",
+    "static/media/Onlineexam.png": "/Maneshnarayanan/static/media/Onlineexam.e7415b35713390b94408.png",
+    "static/media/cvbuilder.JPG": "/Maneshnarayanan/static/media/cvbuilder.0e607af0b67c3ff158c2.JPG",
+    "static/media/logo.svg": "/Maneshnarayanan/static/media/logo.7558777d033c30ecdc731f6abdb45949.svg",
+    "static/media/uc.avif": "/Maneshnarayanan/static/media/uc.095123402ebd2bc20519.avif",
+    "index.html": "/Maneshnarayanan/index.html",
+    "main.61ec770d.css.map": "/Maneshnarayanan/static/css/main.61ec770d.css.map",
+    "main.64ceed30.js.map": "/Maneshnarayanan/static/js/main.64ceed30.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a70cacc.css",
-    "static/js/main.5e93aee7.js"
+    "static/css/main.61ec770d.css",
+    "static/js/main.64ceed30.js"
   ]
 }
