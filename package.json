@@ -2,7 +2,7 @@
   "homepage": "https://maneshnarayanan.github.io/My_Portfolio",
   "name": "Manesh-portfolio",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
     "@testing-library/jest-dom": "^5.16.5",
