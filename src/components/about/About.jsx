@@ -8,8 +8,6 @@ export const About = () => {
   return (
     <section className="section about" id="about">
       <h2 className="section__title">About Me</h2>
-      <span className="section__subtitle">My introduction</span>
-
       <div className="about__container container grid">
         <img src={dp} alt="Nataliia Vyrsta photo" className="about__img" />
 
